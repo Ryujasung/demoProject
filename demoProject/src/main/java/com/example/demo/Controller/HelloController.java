@@ -9,6 +9,7 @@ public class HelloController {
 	@RequestMapping(value = "/")
 	public String index() {
 		//TEST3
+		//TEST-PIPLINE LOG
 		return "index";
 	}
 }
