@@ -10,6 +10,7 @@ public class HelloController {
 	public String index() {
 		//TEST3
 		//TEST-PIPLINE LOG
+		//TEST4
 		return "index";
 	}
 }
